@@ -56,7 +56,7 @@ config.typolinkLinkAccessRestrictedPages_addParams = &return_url=###RETURN_URL##
 page.shortcutIcon = fileadmin/aimeos_dist/favicon.ico
 
 # AIMEOS
-plugin.tx_aimeos.settings.client.html.checkout.standard.process.account.standard.groupids {
+plugin.tx_aimeos.settings.controller.frontend.customer.groupids {
   all = 1
 }
 plugin.tx_aimeos.settings.client.html.catalog.detail.standard.subparts {
